@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 b file edited in car branch
+=======
+b file edited in bike branch
+>>>>>>> bike
 
